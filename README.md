@@ -45,7 +45,7 @@ cd Computer-programming-and-numerical-analysis-9hp-
 Install dependencies:
 pip install -r requirements.txt
 
-###Usage
+### Usage
 Open Jupyter Notebook:
 jupyter notebook
 Navigate to the desired folder to explore projects.
