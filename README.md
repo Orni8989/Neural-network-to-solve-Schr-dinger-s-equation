@@ -50,10 +50,6 @@ Open Jupyter Notebook:
 jupyter notebook
 Navigate to the desired folder to explore projects.
 
-
-## Acknowledgments
-This repository is developed as part of a university course and contains contributions from coursework and group projects.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
